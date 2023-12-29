@@ -1,0 +1,7 @@
+F:\Inscryption\ALPHA 0.5.1\bin\Debug\ALPHA 0.5.1.exe.config
+F:\Inscryption\ALPHA 0.5.1\bin\Debug\ALPHA 0.5.1.exe
+F:\Inscryption\ALPHA 0.5.1\bin\Debug\ALPHA 0.5.1.pdb
+F:\Inscryption\ALPHA 0.5.1\obj\Debug\ALPHA 0.5.1.csproj.AssemblyReference.cache
+F:\Inscryption\ALPHA 0.5.1\obj\Debug\ALPHA 0.5.1.csproj.CoreCompileInputs.cache
+F:\Inscryption\ALPHA 0.5.1\obj\Debug\ALPHA 0.5.1.exe
+F:\Inscryption\ALPHA 0.5.1\obj\Debug\ALPHA 0.5.1.pdb
